@@ -1,0 +1,7 @@
+{
+    "name": "simple-node",
+    "main": "./src/echo.js",
+    "dependencies": {
+        "argv": "0.0.2"
+    }
+}
